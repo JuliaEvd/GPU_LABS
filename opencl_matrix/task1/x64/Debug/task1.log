@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\temp110\desktop\opencl_axpy\task1\source.cpp(277): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\temp110\desktop\opencl_axpy\task1\source.cpp(282): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\temp110\desktop\opencl_axpy\task1\source.cpp(302): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\temp110\desktop\opencl_axpy\task1\source.cpp(311): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\temp110\desktop\opencl_axpy\task1\source.cpp(614): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\temp110\desktop\opencl_axpy\task1\source.cpp(619): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\temp110\desktop\opencl_axpy\task1\source.cpp(639): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\temp110\desktop\opencl_axpy\task1\source.cpp(648): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  task1.vcxproj -> C:\Users\temp110\Desktop\opencl_axpy\x64\Debug\task1.exe

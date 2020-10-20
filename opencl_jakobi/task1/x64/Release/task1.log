@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\temp110\desktop\opencl_jakobi\task1\source.cpp(123): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  All 259 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  task1.vcxproj -> C:\Users\temp110\Desktop\opencl_jakobi\x64\Release\task1.exe
